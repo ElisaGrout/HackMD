@@ -26,8 +26,11 @@ Michel Antunes
 : Master 2 MEEF Philosophie à Rouen. Professeur de Philosophie depuis 8 ans en lycée. Travail sur le concept de vérité chez Nietzsche.
 
 **Qu'est-ce que la liberté à l'heure de la société connectée ? 
+
 Pourquoi dans les films d'espionnage, les personnages débranchent ou cassent leurs portables s'ils ne veulent pas être tracés ?
+
 Comme si c'était la seule façon de disparaître était de casser cet objet. Est-ce déjà une extension de nous ?
+
 Est-ce une évolution normale de nos sociétés techniques ? Est-ce un usage abusif de d'états totalitaires ?**
 
 ## I. L'Invention du Web
@@ -102,7 +105,11 @@ https://github.com/bundestag/gesetze/commits/master
  - https://www.youtube.com/watch?v=KizblvpFk9E
 
 ## Conclusion
-On sait que c’est en Occident que l’essor des techniques a été rendu possible grâce à l’existence d’un courant de valeurs qui leur était favorable, qui non seulement donnait de la valeur à ces techniques mais les transformaient en valeur. Nul ne saurait contester la formidable puissance de libération que le développement technique a produit. Affranchissement des contraintes matérielles, et corporelles mêmes, recul de la mortalité, recul des bornes mêmes de la nature. Et pourtant, aujourd’hui plus que jamais, les hommes s’interrogent sur ce même développement source de leur admiration. Plus que jamais la puissance technicienne suscite des interrogations, des doutes, des méfiances. En radicalisant, il y a ceux qui voient dans la technique un destin homicide et ceux qui y voient le salut de l’homme ou un progrès auquel il faut nous résigner. 
+On sait que c’est en Occident que l’essor des techniques a été rendu possible grâce à l’existence d’un courant de valeurs qui leur était favorable, qui non seulement donnait de la valeur à ces techniques mais les transformaient en valeur. 
+Nul ne saurait contester la formidable puissance de libération que le développement technique a produit. Affranchissement des contraintes matérielles, et corporelles mêmes, recul de la mortalité, recul des bornes mêmes de la nature. 
+
+Et pourtant, aujourd’hui plus que jamais, les hommes s’interrogent sur ce même développement source de leur admiration. Plus que jamais la puissance technicienne suscite des interrogations, des doutes, des méfiances. En radicalisant, il y a ceux qui voient dans la technique un destin homicide et ceux qui y voient le salut de l’homme ou un progrès auquel il faut nous résigner. 
+
 Peut-on aller jusqu’à se demander si le développement technique peut être facteur d’esclavage ? Sans nul doute, encore faut-il se demander de quel type d’esclavage il s’agit. Esclavage économique, social, moral, spirituel ? Et de quelle nature ? Aliénation foncière ou simple asservissement passager, sorte d’effet collatéral regrettable certes mais inévitable ? 
 
 ## Références
