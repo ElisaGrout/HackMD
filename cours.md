@@ -1,11 +1,17 @@
 # Qu'est-ce que la liberté à l'heure de la société connectée ? 
 
 [Présentations](#Pr%C3%A9sentations)
+
 [I. L'invention du Web](#I-L%E2%80%99Invention-du-Web)
+
 [II. Le Web comme outil d'espionnage](#II-Le-Web-comme-outil-d%E2%80%99espionnage)
+
 [III. Les licences](#III-Les-licenses)
+
 [IV. Stockage décentralisé - IPFS, Solid](#IV-Stockage-d%C3%A9centralis%C3%A9---IPFS-Solid)
+
 [V. Blockchain & Bitcoin](#V-Blockchain-amp-Bitcoin)
+
 [Conclusion](#Conclusion)
 
 ## Présentations
@@ -27,6 +33,7 @@ Est-ce une évolution normale de nos sociétés techniques ? Est-ce un usage abu
 ## I. L'Invention du Web
 
 ***Tim Berners Lee (CERN). Mis le web en license libre.***
+
 [![](https://i.imgur.com/e2tUW1O.jpg)](https://home.cern/fr/science/computing/birth-web)
 
 ***[Une contre histoire de l'internet, Sylvain Bergère, 2013](https://www.youtube.com/watch?v=MUTABXD8f24)***
